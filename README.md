@@ -1,6 +1,6 @@
 ## Hi there 👋
 
 <div data-importer="music" align="center">
- <img src="https://spotify-recently-played-readme.vercel.app/api?user=315qk3rf74lvf65l3lt6qqyqexwy&count=5" alt="Spotify recently played" />
+ <img src="https://spotify-recently-played-readme.vercel.app/api?user=315qk3rf74lvf65l3lt6qqyqexwy&count=5&width=700" alt="Spotify recently played" />
 </div>
 
